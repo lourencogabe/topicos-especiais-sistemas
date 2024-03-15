@@ -1,0 +1,14 @@
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/bin/Debug/net8.0/ExercicioDois
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/bin/Debug/net8.0/ExercicioDois.deps.json
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/bin/Debug/net8.0/ExercicioDois.runtimeconfig.json
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/bin/Debug/net8.0/ExercicioDois.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/bin/Debug/net8.0/ExercicioDois.pdb
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/obj/Debug/net8.0/ExercicioDois.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/obj/Debug/net8.0/ExercicioDois.AssemblyInfoInputs.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/obj/Debug/net8.0/ExercicioDois.AssemblyInfo.cs
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/obj/Debug/net8.0/ExercicioDois.csproj.CoreCompileInputs.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/obj/Debug/net8.0/ExercicioDois.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/obj/Debug/net8.0/refint/ExercicioDois.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/obj/Debug/net8.0/ExercicioDois.pdb
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/obj/Debug/net8.0/ExercicioDois.genruntimeconfig.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioDois/obj/Debug/net8.0/ref/ExercicioDois.dll

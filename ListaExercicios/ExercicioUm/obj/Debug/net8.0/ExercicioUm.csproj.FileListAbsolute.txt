@@ -1,0 +1,14 @@
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/bin/Debug/net8.0/ExercicioUm
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/bin/Debug/net8.0/ExercicioUm.deps.json
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/bin/Debug/net8.0/ExercicioUm.runtimeconfig.json
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/bin/Debug/net8.0/ExercicioUm.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/bin/Debug/net8.0/ExercicioUm.pdb
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/obj/Debug/net8.0/ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/obj/Debug/net8.0/ExercicioUm.AssemblyInfoInputs.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/obj/Debug/net8.0/ExercicioUm.AssemblyInfo.cs
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/obj/Debug/net8.0/ExercicioUm.csproj.CoreCompileInputs.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/obj/Debug/net8.0/ExercicioUm.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/obj/Debug/net8.0/refint/ExercicioUm.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/obj/Debug/net8.0/ExercicioUm.pdb
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/obj/Debug/net8.0/ExercicioUm.genruntimeconfig.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioUm/obj/Debug/net8.0/ref/ExercicioUm.dll

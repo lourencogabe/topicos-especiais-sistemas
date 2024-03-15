@@ -1,0 +1,14 @@
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/obj/Debug/net8.0/ExercicioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/obj/Debug/net8.0/ExercicioQuatro.AssemblyInfoInputs.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/obj/Debug/net8.0/ExercicioQuatro.AssemblyInfo.cs
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/obj/Debug/net8.0/ExercicioQuatro.csproj.CoreCompileInputs.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/bin/Debug/net8.0/ExercicioQuatro
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/bin/Debug/net8.0/ExercicioQuatro.deps.json
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/bin/Debug/net8.0/ExercicioQuatro.runtimeconfig.json
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/bin/Debug/net8.0/ExercicioQuatro.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/bin/Debug/net8.0/ExercicioQuatro.pdb
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/obj/Debug/net8.0/ExercicioQuatro.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/obj/Debug/net8.0/refint/ExercicioQuatro.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/obj/Debug/net8.0/ExercicioQuatro.pdb
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/obj/Debug/net8.0/ExercicioQuatro.genruntimeconfig.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioQuatro/obj/Debug/net8.0/ref/ExercicioQuatro.dll

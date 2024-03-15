@@ -1,0 +1,14 @@
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/bin/Debug/net8.0/ExercicioTres
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/bin/Debug/net8.0/ExercicioTres.deps.json
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/bin/Debug/net8.0/ExercicioTres.runtimeconfig.json
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/bin/Debug/net8.0/ExercicioTres.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/bin/Debug/net8.0/ExercicioTres.pdb
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/obj/Debug/net8.0/ExercicioTres.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/obj/Debug/net8.0/ExercicioTres.AssemblyInfoInputs.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/obj/Debug/net8.0/ExercicioTres.AssemblyInfo.cs
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/obj/Debug/net8.0/ExercicioTres.csproj.CoreCompileInputs.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/obj/Debug/net8.0/ExercicioTres.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/obj/Debug/net8.0/refint/ExercicioTres.dll
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/obj/Debug/net8.0/ExercicioTres.pdb
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/obj/Debug/net8.0/ExercicioTres.genruntimeconfig.cache
+/Users/gabriellourenco/Desktop/topicos/ListaExercicios/ExercicioTres/obj/Debug/net8.0/ref/ExercicioTres.dll
