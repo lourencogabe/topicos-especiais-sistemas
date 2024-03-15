@@ -1,0 +1,14 @@
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/bin/Debug/net8.0/Exe06A
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/bin/Debug/net8.0/Exe06A.deps.json
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/bin/Debug/net8.0/Exe06A.runtimeconfig.json
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/bin/Debug/net8.0/Exe06A.dll
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/bin/Debug/net8.0/Exe06A.pdb
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/obj/Debug/net8.0/Exe06A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/obj/Debug/net8.0/Exe06A.AssemblyInfoInputs.cache
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/obj/Debug/net8.0/Exe06A.AssemblyInfo.cs
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/obj/Debug/net8.0/Exe06A.csproj.CoreCompileInputs.cache
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/obj/Debug/net8.0/Exe06A.dll
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/obj/Debug/net8.0/refint/Exe06A.dll
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/obj/Debug/net8.0/Exe06A.pdb
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/obj/Debug/net8.0/Exe06A.genruntimeconfig.cache
+/Users/gabriellourenco/Desktop/topicos/ExercicioOrganização/Exe06A/obj/Debug/net8.0/ref/Exe06A.dll
