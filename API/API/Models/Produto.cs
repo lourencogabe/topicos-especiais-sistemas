@@ -27,6 +27,7 @@ public class Produto
     public double Valor { get; set; }
     public DateTime CriadoEm { get; set; }
 
+
     // private string nome; 
 
     // public void setNome(string nome)  
